@@ -17,3 +17,9 @@ Frontend & Framework: Streamlit
 AI Integration: Google Generative AI (Gemini Pro)
 
 Deployment: Streamlit Cloud
+
+🌐 Live Demo
+You can try the live application here:
+👉 [[Insert Your Streamlit Link Here](https://ai-content-summarizer-ehlarxtwraghycw8xrcpkx.streamlit.app/)]
+
+Feel free to star this repository if you found it useful!
